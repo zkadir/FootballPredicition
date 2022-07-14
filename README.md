@@ -1,2 +1,2 @@
-# Football Predicition
+# Football Prediction
 Premier League Match Prediction 
